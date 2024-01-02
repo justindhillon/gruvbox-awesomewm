@@ -1,16 +1,6 @@
 # Core Utils
 sys-apps/busybox
 
-# Kernel
-sys-kernel/linux-firmware
-sys-kernel/installkernel-gentoo
-sys-kernel/gentoo-kernel-bin
-
-# Initramfs
-sys-kernel/dracut
-sys-apps/sed
-sys-apps/grep
-
 # Tools
 sys-process/htop
 app-misc/neofetch
