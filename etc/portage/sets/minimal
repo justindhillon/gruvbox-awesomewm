@@ -1,6 +1,0 @@
-# Core Utils
-sys-apps/busybox
-
-# Tools
-sys-process/htop
-app-misc/neofetch

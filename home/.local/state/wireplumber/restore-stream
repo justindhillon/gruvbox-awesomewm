@@ -1,0 +1,5 @@
+[restore-stream]
+Output/Audio:application.name:Firefox:channelMap=FL;FR;
+Output/Audio:application.name:Firefox:channelVolumes=1.0;1.0;
+Output/Audio:application.name:Firefox:mute=false
+Output/Audio:application.name:Firefox:volume=1.0

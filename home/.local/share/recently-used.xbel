@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/justin/Downloads/Gruvbox-Dark-BL.zip" added="2024-02-03T18:14:35.402007Z" modified="2024-02-03T18:14:35.402012Z" visited="2024-02-03T18:14:35.402008Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-02-03T18:14:35.402009Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/wallpaper.png" added="2024-02-03T18:33:02.216384Z" modified="2024-02-03T18:33:02.655265Z" visited="2024-02-03T18:33:02.216386Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-02-03T18:33:02.655262Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/0xProto.zip" added="2024-02-03T21:21:57.027133Z" modified="2024-02-03T21:21:57.027140Z" visited="2024-02-03T21:21:57.027134Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-02-03T21:21:57.027135Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/0xProto(1).zip" added="2024-02-03T21:26:34.020024Z" modified="2024-02-03T21:26:34.020035Z" visited="2024-02-03T21:26:34.020026Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-02-03T21:26:34.020030Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/greenlet-3.0.3-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl.metadata" added="2024-02-03T22:16:18.485815Z" modified="2024-02-03T22:16:18.485823Z" visited="2024-02-03T22:16:18.485816Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-02-03T22:16:18.485818Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/greenlet-3.0.3-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl(1).metadata" added="2024-02-03T22:17:58.548076Z" modified="2024-02-03T22:17:58.548082Z" visited="2024-02-03T22:17:58.548077Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-02-03T22:17:58.548079Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
